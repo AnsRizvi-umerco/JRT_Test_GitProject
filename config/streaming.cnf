@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<IDataXMLCoder version="1.0">
+  <record javaclass="com.wm.data.ISMemDataImpl">
+    <array name="StreamingConfiguration" type="record" depth="1">
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="name">JRT_Test_GitProject_project.jrt_test_git.streaming.connections:EmbeddedMessaging</value>
+        <value name="aliasName">EmbeddedMessaging</value>
+        <value name="aliasNamespace">JRT_Test_GitProject_project.jrt_test_git.streaming.connections</value>
+        <value name="description">This is the default embedded messaging account</value>
+        <value name="package">JRT_Test_GitProject</value>
+        <value name="type">kafka</value>
+        <value name="host">nhp://stage00-dev9561443-um-0.int-dev9561443.svc.cluster.local:9000/</value>
+        <value name="clientId">EM85502ea38a114f7b8f29257e53649d26</value>
+        <value name="other_properties"></value>
+        <value name="other_runtime_properties">streaming.consumer.validate.consumers.not.greater.than.partitions=true
+streaming.client.publish.mode=asynchronous</value>
+        <value name="enabled">true</value>
+        <value name="securityProtocol"></value>
+        <null name="truststoreAlias"/>
+        <null name="keystoreAlias"/>
+        <null name="keystoreKeyAlias"/>
+      </record>
+    </array>
+  </record>
+</IDataXMLCoder>

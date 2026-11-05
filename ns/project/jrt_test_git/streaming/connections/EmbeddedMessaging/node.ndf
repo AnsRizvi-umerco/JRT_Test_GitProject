@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">connectorAccount</value>
+  <value name="node_subtype">streamingAccount</value>
+  <value name="node_nsName">project.jrt_test_git.streaming.connections:EmbeddedMessaging</value>
+  <value name="node_pkg">JRT_Test_GitProject</value>
+  <value name="is_public">false</value>
+  <value name="assetId">JRT_Test_GitProject.project.jrt_test_git.streaming.connections:EmbeddedMessaging</value>
+  <value name="connectionName">EmbeddedMessaging</value>
+  <value name="description">This is the default embedded messaging account</value>
+  <value name="providerURI">nhp://stage00-dev9561443-um-0.int-dev9561443.svc.cluster.local:9000/</value>
+  <value name="clientId">EM85502ea38a114f7b8f29257e53649d26</value>
+  <value name="securityProtocol"></value>
+  <value name="additionalProperties"></value>
+</Values>
